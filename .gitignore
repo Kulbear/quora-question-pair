@@ -1,11 +1,1 @@
-# Editor configs
 .idea
-
-# ipynb
-.ipynb_checkpoints
-
-# macOS
-.DS_Store
-
-# py
-__pycache__
